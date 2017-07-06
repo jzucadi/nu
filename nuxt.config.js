@@ -14,9 +14,12 @@ module.exports = {
     ]
   },
   /*
-  ** Customize the progress-bar color
+  ** Global CSS
   */
-  loading: { color: 'lightblue' },
+  loading: { color: '#2196f3' },
+  /*
+  */
+  css: ['~assets/main.css'],
   /*
   ** Build configuration
   */
